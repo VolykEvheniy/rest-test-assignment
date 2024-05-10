@@ -13,7 +13,7 @@
 - Для тестування ендпоінтів можна використовувати наступні JSON стркутури:
 - Додавання та оновлення user:
    {
-    "email": "user@example.com",
+    "email": "carol@example.com",
     "firstName": "Carol",
     "lastName": "Doe",
     "birthDate": "2002-05-15",
